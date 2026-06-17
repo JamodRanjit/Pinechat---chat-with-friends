@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827689678829",
+    "project_id": "pine-chat-123",
+    "storage_bucket": "pine-chat-123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827689678829:android:b05b3f82563b285a52d9e4",
+        "android_client_info": {
+          "package_name": "com.aistudio.pinechat.axfr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy8ByH_z6gc9plSNSzqFOjxOo2Vb0FbYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Pine Chat",
+  "description": "Premium E2EE secured messaging and live-streaming app where users can earn points while interacting in modern glassmorphic pine-themed chatrooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
